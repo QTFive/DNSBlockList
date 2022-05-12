@@ -118,3 +118,4 @@
 @@||lgincdnvzeuno.azureedge.net^
 @@||lgincdnmsftuswe2.azureedge.net^
 @@||catalogartifact.azureedge.net^
+@@||vsassets.io^
