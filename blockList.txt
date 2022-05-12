@@ -75,6 +75,7 @@
 ||pub.3gppnetwork.org^
 ||qcloudimg.com^
 ||360panyun.com^
+||werockgaming.com^
 #Youtube
 ||suggestqueries.l.google.com^
 #ksosoft
