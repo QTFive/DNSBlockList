@@ -134,8 +134,11 @@
 @@||vimeocdn.com^
 @@||dailyexpose.uk^
 @@||rumble.com^
+@@||ixigua.com^
 #pstatp
 @@||pstatp.com^
 #finance
 @@||moneyback.com.hk^
 @@||octopus.com.hk^
+#travel
+@@||lrnt.mtr.com.hk^
