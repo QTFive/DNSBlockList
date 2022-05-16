@@ -211,7 +211,7 @@
 ||g.s.360.cn^
 #Spotify
 ||heads-fa.spotify.com^
-||spclient.wg.spotify.com^
+! ||spclient.wg.spotify.com^
 #Twitch
 ||api.mixpanel.com spade.twitch.com^
 #Cocomanga
