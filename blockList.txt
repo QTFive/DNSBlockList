@@ -1,7 +1,4 @@
 #Unlist
-||ip6.arpa^
-||ipv4only.arpa^
-||in-addr.arpa^
 ||cootek.com^
 ||dm.htcsense.com^
 ||open.e.kuaishou.com^
@@ -14,7 +11,6 @@
 ||pubads.g.doubleclick.net^
 ||sb.scorecardresearch.com^
 ||www.googleadservices.com^
-||optimizationguide-pa.googleapis.com^
 ||pub.3gppnetwork.org^
 ||mtalk.google.com^
 ||alt1-mtalk.google.com^
@@ -31,16 +27,6 @@
 ||aaid.umeng.com^
 ||trnox.com^
 ||zdjl.site^
-||114dns.com^
-||114.114.114.114^
-||180.76.76.76.76^
-||223.5.5.5^
-||223.6.6.6^
-||1e100.net^
-#facebook
-||star.c10r.facebook.com^
-||star.fallback.c10r.facebook.com^
-||graph.instagram.com^
 #qq
 ||mtteve.beacon.qq.com^
 #baidu
