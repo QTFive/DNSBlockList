@@ -4,13 +4,13 @@
 ||open.e.kuaishou.com^
 ||api-access.pangolin-sdk-toutiao.com^
 #Tracker
-||siteforce.com^
+@@||siteforce.com^
 #google
-||csi.gstatic.com^
-||connectivitycheck.gstatic.com^
+@@||csi.gstatic.com^
+@@||connectivitycheck.gstatic.com^
 ||pubads.g.doubleclick.net^
 ||sb.scorecardresearch.com^
-||www.googleadservices.com^
+@@||www.googleadservices.com^
 ||pub.3gppnetwork.org^
 ||mtalk.google.com^
 ||alt1-mtalk.google.com^
@@ -34,7 +34,7 @@
 ||tcbox.baidu.com^
 ||browserkernel.baidu.com^
 ||als.baidu.com^
-||bdstatic.com^
+@@||bdstatic.com^
 ||exdynsrv.com^
 #microsoft
 ||teams.events.data.microsoft.com^
@@ -195,12 +195,12 @@
 @@||catalogartifact.azureedge.net^
 @@||vsassets.io^
 #360
-||qcloudimg.com^
+@@||qcloudimg.com^
 ||360panyun.com^
 ||g.s.360.cn^
 #Spotify
 ||heads-fa.spotify.com^
-! ||spclient.wg.spotify.com^
+@@||spclient.wg.spotify.com^
 #Twitch
 ||api.mixpanel.com spade.twitch.com^
 #Cocomanga
